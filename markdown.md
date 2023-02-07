@@ -22,3 +22,8 @@ A sido traducido a multitud de lenguajes de programación como:
 [Enlace a el repositorio](https://github.com/Davrey/repo_REYES/blob/main/markdown2.md)
 
 ![GITHUB](https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
