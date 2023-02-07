@@ -21,4 +21,4 @@ A sido traducido a multitud de lenguajes de programación como:
 
 [Enlace a el repositorio](https://github.com/Davrey/repo_REYES/blob/main/markdown2.md)
 
-![GITHUB](/home/usuario/Escritorio/1ºDAW David Reyes/ENTORNO DE DESARROLLO/github imagen.png)(https://twitter.com/github/photo)
+![GITHUB](/home/usuario/Escritorio/1ºDAW David Reyes/ENTORNO DE DESARROLLO/github imagen.png)
